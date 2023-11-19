@@ -1,0 +1,21 @@
+{
+  "name": "CareerLink",
+  "short_name": "CareerLink",
+  "description": "Your Career Launchpad",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "192x192",
+      "type": "image/ico"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "512x512",
+      "type": "image/ico"
+    }
+  ]
+}
